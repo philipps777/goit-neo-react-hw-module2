@@ -1,0 +1,31 @@
+.list {
+  display: flex;
+}
+
+.item {
+  min-width: 10rem;
+  text-align: center;
+  color: #fee440;
+}
+
+ul {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  font-weight: 700;
+  font-size: 32px;
+  color: #fee440;
+}
+
+.stats {
+  display: flex;
+  gap: 1rem;
+  min-width: 20rem;
+  font-weight: 500;
+  color: #fee440;
+}

@@ -1,0 +1,24 @@
+.casebtn {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 7rem;
+  padding: 2rem 4rem;
+}
+
+.btn {
+  display: inline-flex;
+  padding: 10px 14px;
+  border: 1px solid black;
+  border-radius: 4px;
+  font-family: inherit;
+  font-size: 20px;
+  background-color: #fee440;
+  color: black;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #f72585;
+}

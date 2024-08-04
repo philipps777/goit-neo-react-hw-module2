@@ -1,0 +1,20 @@
+.head {
+  max-width: 32rem;
+  padding: 2rem 4rem;
+  text-align: center;
+}
+.title {
+  font-size: 44px;
+  margin-bottom: 2rem;
+  color: #fee440;
+}
+span {
+  font-size: 44px;
+  margin-bottom: 2rem;
+  color: #f15bb5;
+}
+
+.text {
+  font-size: 24px;
+  color: #fee440;
+}
